@@ -1,0 +1,4 @@
+.favorite_blok{
+    display: flex;
+    flex-wrap: wrap;
+}

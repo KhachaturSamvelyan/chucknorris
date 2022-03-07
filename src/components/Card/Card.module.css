@@ -1,0 +1,31 @@
+.home_blok{
+    max-width: 300px;
+    margin: 20px auto;
+    text-align: center;
+    padding: 25px;
+    border-radius: 10px;
+    border: 2px solid #1390E5;
+
+
+}
+.home_blok p {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    color: #000000;
+}
+
+.home_item img {
+    margin-bottom: 15px;
+}
+
+.home_item{
+    position: relative;
+}
+.home_item .favorite{
+    position: absolute;
+    top: -18px;
+    right: -18px;
+    cursor: pointer;
+}
